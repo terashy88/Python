@@ -10,7 +10,7 @@ print(2*2)
 print(2**2) #power
 print(2**5) #power ("2*2*2*2*2")
 print(2/2)
-print(10%3) # Moduler
+print(10 % 3)  # Modular
 
 ee=f'The Result is {result}!'
 print(ee)

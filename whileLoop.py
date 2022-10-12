@@ -7,3 +7,11 @@ while number < 10:
         print("stop at 4")
         break
 else: print ("reach target")
+
+print()
+
+number= 13
+while number <=10:
+    print(number)
+    number =number+1
+else: print ("I don't count to " + str(number))

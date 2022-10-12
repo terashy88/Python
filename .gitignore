@@ -1,3 +1,10 @@
 .vscode/launch.json
 pytest
 test
+.idea/misc.xml
+.idea/modules.xml
+.idea/Python.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/math.cpython-310.pyc
+__pycache__/pytest.cpython-310.pyc
